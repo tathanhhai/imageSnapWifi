@@ -14,6 +14,6 @@
 
     $ ./grabber.py -h
     $ ./grabber.py ip.address.of.cam
-    $ ./grabber.py ip.address.of.cam -delay 0.3
-    $ ./grabber.py ip.address.of.cam -frames 50
-    $ ./grabber.py ip.address.of.cam -frames 150 -delay 0.2
+    $ ./grabber.py ip.address.of.cam --delay 0.3
+    $ ./grabber.py ip.address.of.cam --frames 50
+    $ ./grabber.py ip.address.of.cam -f 150 -d 0.2
